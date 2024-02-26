@@ -1,0 +1,36 @@
+{
+  "name": "@kezoponk/scroller",
+  "version": "1.1.5",
+  "description": "Create responsive and pausable horizontally moving elements",
+  "main": "dist/scroller.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kezoponk/scroller.js.git"
+  },
+  "keywords": [
+    "scrolling-text",
+    "rolling-text",
+    "javascript-library",
+    "moving-text",
+    "trainstation",
+    "trainstation-text",
+    "threadmill"
+  ],
+  "peerDependencies": {
+    "react": ">=16.14.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "@types/react": ">=16.14.8",
+    "csstype": "^3.0.0"
+  },
+  "author": "Albin Eriksson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kezoponk/scroller.js/issues"
+  },
+  "homepage": "https://github.com/kezoponk/scroller.js#readme"
+}
